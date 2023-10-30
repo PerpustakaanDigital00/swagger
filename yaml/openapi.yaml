@@ -2,7 +2,7 @@ openapi: 3.0.3
 info:
   title: Dokumen API Cloud Function - OpenAPI 3.0
   description: >-
-    Dokumen API Cloud Function Aplikasi Pariwisata Jawa Barat
+    Dokumen API Cloud Function Perpustakaan Digital
   termsOfService: https://perpustakaandigital00.github.io/swagger/
   contact:
     email: farhanriziq01@gmail.com
