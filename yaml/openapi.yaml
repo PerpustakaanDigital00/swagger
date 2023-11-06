@@ -7,7 +7,7 @@ info:
   contact:
     email: farhanriziq01@gmail.com
   license:
-    name: pasetobackend Package
+    name: Pasetobackend Package
     url: https://pkg.go.dev/github.com/PerpustakaanDigital00/backend
   version: 1.0.1
 externalDocs:
