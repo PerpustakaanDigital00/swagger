@@ -81,9 +81,6 @@ components:
         email:
           type: string
           example: perpus@gmail.com
-        role:
-          type: string
-          example: admin
     Login:
       type: object
       properties:
