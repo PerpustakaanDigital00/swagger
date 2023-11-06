@@ -14,7 +14,7 @@ externalDocs:
   description: Repo backend
   url: https://perpustakaandigital00.github.io/backend/
 servers:
-  - url: 
+  - url: https://us-central1-gcpgeospacial.cloudfunctions.net/perpus
 tags:
   - name: User
     description: Data User
